@@ -1,0 +1,3 @@
+2026-04-14 19:22:15.333 +08:00 [INF] This is an informational message from Serilog.
+2026-04-14 19:22:15.391 +08:00 [WRN] This is a warning message from Serilog.
+2026-04-14 19:22:15.392 +08:00 [ERR] This is an error message from Serilog.
