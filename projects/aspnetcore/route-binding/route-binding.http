@@ -1,0 +1,6 @@
+@route_binding_HostAddress = http://localhost:5094
+
+GET {{route_binding_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

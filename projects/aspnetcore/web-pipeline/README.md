@@ -1,4 +1,4 @@
-# Day1：最小 API + 中间件管道
+# 最小 API + 中间件管道
 - 添加三个中间件（`app.Use` 或 `app.UseMiddleware<T>`）：
   1. 打印 "Request start"
   2. 添加响应头 `X-Custom: hello`
