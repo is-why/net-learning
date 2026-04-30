@@ -1,0 +1,6 @@
+@config_hot_reload_HostAddress = http://localhost:5220
+
+GET {{config_hot_reload_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
